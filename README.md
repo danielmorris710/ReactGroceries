@@ -8,7 +8,7 @@ Build an app that let's you make a list of groceries to buy
 - Practice rendering a list
 - Practice conditional rendering
 ### Prerequisites
--Introduction to React static components, mocking, state, rendering
+- Introduction to React static components, mocking, state, rendering
 
 <br>
 <br>
