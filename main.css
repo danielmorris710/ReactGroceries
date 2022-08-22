@@ -1,0 +1,58 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+#paper {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    border: solid;
+    border-color: black;
+    background-image: url("https://d1csarkz8obe9u.cloudfront.net/posterpreviews/yellow-notebook-paper-background-design-template-d7dfa26f8c8c759652e2521f0ecd24eb_screen.jpg?ts=1636990781");
+    flex-wrap: nowrap;
+    width: 720px;
+    min-height: 725px;
+}
+ 
+h1{
+    font-size: 50px;
+}
+
+#form{
+    border: solid;
+    border-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center; 
+    padding: 20px;
+    width: 300px;
+    font-size: 15px;
+    background-color: rgb(235, 203, 175);
+}    
+
+.formData{
+    display: flex;
+    padding: 2px;
+    font-size: 20px;
+}
+
+#list{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center; 
+    padding: 30px;
+    width: 900px;
+    letter-spacing: 3px;
+}
+
+table {
+    font-size: 20px;
+    text-align: center;
+    width: 80%;
+    line-height: 24px;
+}
